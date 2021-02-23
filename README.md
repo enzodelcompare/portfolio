@@ -20,10 +20,10 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 ## Projetos
 
 - **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">r-language</a>
-    - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
+    > Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
 
 - **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">python_statistics</a>
-    - Aprendizado/Treinamento de Estatística com a Linguagem **Python**
+    > Aprendizado/Treinamento de Estatística com a Linguagem **Python**
 
 - **Power BI** <a href="https://github.com/enzodelcompare/meupowerbi.github.io">meupowerbi.github.io</a>
-    - Demonstração de um dashboard desenvolvido no **Power BI** e anexado em uma página web
+    > Demonstração de um dashboard desenvolvido no **Power BI** e anexado em uma página web
