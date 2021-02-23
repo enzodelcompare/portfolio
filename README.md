@@ -8,4 +8,4 @@
 
 Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei.
 
-**Meu Site:** https://enzodelcompare.github.io/
+**Meu Site:** <a href="https://enzodelcompare.github.io/">enzodelcompare.github.io</a>
