@@ -17,4 +17,4 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 - **Liguagem R** <a href="#">r-language</a>
     - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
 
-<img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" align="right">
+<img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" align="right" width="100px">
