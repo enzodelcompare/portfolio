@@ -13,7 +13,6 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 <br>
 
 <img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" width="100px">
-<img src="#" width="100px">
 
 <br>
 
