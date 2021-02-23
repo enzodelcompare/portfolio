@@ -18,3 +18,8 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
     - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
 
 <img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" align="right" width="100px">
+
+- **Estatística com Python** <a href="#">python_statistics</a>
+    - Aprendizado/Treinamento de Estatística com a Linguagem **Python**
+
+<img src="#" align="right" width="100px">
