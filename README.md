@@ -2,7 +2,7 @@
     <a href="https://enzodelcompare.github.io/" alt="Contributors">
         <img src="https://img.shields.io/badge/create-enzodelcompare-green" />
     </a>
-    <img src="https://img.shields.io/badge/resume-enzodelcompare-blue" />
+    <img src="https://img.shields.io/badge/cv-enzodelcompare-blue" />
 </p>
 
 # Enzo Delcompare
