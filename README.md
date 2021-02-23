@@ -19,8 +19,8 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 
 ## Projetos
 
-- **Liguagem R** <a href="#">r-language</a>
+- **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">r-language</a>
     - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
 
-- **Estatística com Python** <a href="#">python_statistics</a>
+- **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">python_statistics</a>
     - Aprendizado/Treinamento de Estatística com a Linguagem **Python**
