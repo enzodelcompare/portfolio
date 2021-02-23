@@ -12,7 +12,8 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 
 <br>
 
-<img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" align="right" width="100px">
+<img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" width="100px">
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="100px">
 
 <br>
 
