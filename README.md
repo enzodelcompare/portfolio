@@ -9,8 +9,6 @@
 
 Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com o link dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei.
 
-**Meu Site:** <a href="https://enzodelcompare.github.io/">enzodelcompare.github.io</a>
-
 <br>
 
 <img src="https://github.com/enzodelcompare/r-language/blob/master/imagens/Rlogo.png" width="100px">
