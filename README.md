@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Enzo Delcompare](https://github.com/enzodelcompare/enzodelcompare/blob/master/imagens/linguagem_r.jpeg)
+![Enzo Delcompare](https://github.com/enzodelcompare/enzodelcompare/blob/master/imagens/projetos_ds.jpeg)
 
 <br>
 
