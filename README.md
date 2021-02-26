@@ -12,12 +12,9 @@
 
 <br>
 
+# Projetos
+
 Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com o link dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei.
-
-
-<br>
-
-## Projetos
 
 - **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">r-language</a>
     - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
