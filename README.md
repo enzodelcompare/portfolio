@@ -14,7 +14,7 @@
 
 # Projetos
 
-Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com o link dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei.
+Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com o link dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei/realizo.
 
 <br>
 
