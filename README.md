@@ -16,11 +16,23 @@
 
 Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com o link dos projetos que desenvolvi do zero e projetos desenvolvidos nos cursos que realizei.
 
-- **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">r-language</a>
+- **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">[r-language]</a>
     - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
 
-- **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">python_statistics</a>
-    - Aprendizado/Treinamento de Estatística com a Linguagem **Python**
+- **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">[python_statistics]</a>
+    - Aprendizado/Treinamento de Estatística com **Python**
 
-- **Power BI** <a href="https://github.com/enzodelcompare/meupowerbi.github.io">meupowerbi.github.io</a>
+- **Power BI** <a href="https://github.com/enzodelcompare/meupowerbi.github.io">[Power BI]</a>
     - Demonstração de um dashboard desenvolvido no **Power BI** e anexado em uma página web
+
+<br>
+
+<p>
+  <a href="https://www.linkedin.com/in/enzodelcompare/">
+    <img src="https://img.shields.io/badge/linkedin-enzodelcompare-blue">
+  </a>
+  
+  <a href="https://github.com/enzodelcompare/enzodelcompare/blob/master/cv/cv_enzodelcompare.pdf">
+    <img src="https://img.shields.io/badge/curr%C3%ADculo-enzodelcompare-red">
+  </a>
+</p>
