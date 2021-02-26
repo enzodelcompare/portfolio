@@ -24,7 +24,7 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 - **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">[python_statistics]</a>
     - Aprendizado/Treinamento de Estatística com **Python**
 
-- **Power BI** <a href="https://github.com/enzodelcompare/meupowerbi.github.io">[Power BI]</a>
+- **Power BI** <a href="https://enzodelcompare.github.io">[Power BI]</a>
     - Demonstração de um dashboard desenvolvido no **Power BI** e anexado em uma página web
 
 <br>
