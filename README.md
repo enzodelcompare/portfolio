@@ -18,7 +18,7 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 
 <br>
 
-- **Em construção...**
+### Em construção...
 
 <br>
 
