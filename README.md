@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Enzo Delcompare](https://github.com/enzodelcompare/enzodelcompare/blob/master/imagens/projetos_ds.png)
+![Enzo Delcompare](https://github.com/enzodelcompare/enzodelcompare/blob/master/imagens/meu_projetos-enzo_delcompare.png)
 
 <br>
 
@@ -18,14 +18,7 @@ Olá, seja bem vindo(a) ao meu portfólio! Aqui, você encontrará uma lista com
 
 <br>
 
-- **Liguagem R** <a href="https://github.com/enzodelcompare/r-language">[r-language]</a>
-    - Com esse repositório, irei demostrar a construção do meu conhecimento na **Linguagem R**
-
-- **Estatística com Python** <a href="https://github.com/enzodelcompare/python_statistics">[python_statistics]</a>
-    - Aprendizado/Treinamento de Estatística com **Python**
-
-- **Power BI** <a href="https://enzodelcompare.github.io">[Power BI]</a>
-    - Demonstração de um dashboard desenvolvido no **Power BI** e anexado em uma página web
+- **Em construção...**
 
 <br>
 
